@@ -1,3 +1,9 @@
-# Whassup, I'm Erlan. <img src="https://komarev.com/ghpvc/?username=erlanbelekov" alt="" />
+# Hey, I'm Erlan 👋
 
-- Self-taught developer
+# I'm a self-taught developer, I mainly do full-stack development with TS/React/Node and many other stuff
+
+# Contact
+
+- @belekoverlan - telegram
+- https://www.linkedin.com/in/erlan-belekov-413435168/ - linkedin
+- belekoverlanhehe@gmail.com - email
