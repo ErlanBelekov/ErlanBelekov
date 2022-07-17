@@ -1,6 +1,6 @@
 # Hey, I'm Erlan 👋
 
-# I'm a self-taught developer, I mainly do full-stack development with TS/React/Node and many other stuff
+# I'm a self-taught developer, I mainly do full-stack development with TS/React/Node and some other stuff
 
 # Contact
 
