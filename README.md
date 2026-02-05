@@ -4,6 +4,8 @@
 
 # I'm a self-taught developer, I mainly do full-stack development with TS/React/Node and some other stuff
 
+# I like solving leetcode problems 🍕 https://leetcode.com/u/ErlanBelekov/
+
 # Contact
 
 - @belekoverlan - telegram
